@@ -1,0 +1,22 @@
+{
+  "name": "gulp-app",
+  "description": "balbalba",
+  "version": "0.0.1",
+  "author": "gm",
+  "bin": {},
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "yargs": "^3.31.0"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
